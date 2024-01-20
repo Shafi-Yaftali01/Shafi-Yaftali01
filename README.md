@@ -1,22 +1,71 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shafi Yaftali
-=====================================================================================================================================
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Software+Engineer;Android+%26+iOS+App+Developer;Especially+Full+Stack+Development" alt="shafiyaftali" /></a>
+</p>
 
-Software Engineer
------------------
+<!-- Short Introduction -->
 
-As a Software Engineer, I'm dedicated to collaborative teamwork and continuous learning. I have a passion for bringing imaginative ideas to life, seamlessly transforming possibilities into reality.
+<h1 align = "left">
+  Hi, there. <img src="https://github.com/devtech77snake/devtech77snake/blob/main/wave.gif" width="30" /> My name is Shafi Yaftali
 
-*   🌍  I'm based in United Staate
-*   ✉️  You can contact me at [shafiyaftali001@gmail.com](mailto:shafiyaftali001@gmail.com)
-*   🚀  I'm currently working on [Daly Computers, Inc.](http://www.daly.com)
-*   🤝  I'm open to collaborating on Projects
-*   ⚡  I'm seceretly Monkey D. Luffy... but don't tell anyone:)
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /> </a> 
-  <a href="https://apple.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /> </a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a></p>
-<p align="left"> <a href="https://www.github.com/Shafi-Yaftali01" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a></p>
+   ### Thanks for visiting :heart:
+
+  &emsp;
+  
+</h1>
+
+<p>As a Software Engineer, I'm dedicated to collaborative teamwork and continuous learning. I have a passion for bringing imaginative ideas to life, seamlessly transforming possibilities into reality.</p>
+
+#### Web Development
+
+-   Front-End: JavaScript(ES6+), TypeScript, React, Next, Redux, Angular, Vue.js
+-   Back-End: Node.js, Express.js, Python, Django, Flask, Java, Spring Boot
+-   Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase, Supabase
+
+  <p><img align="right" width="30%" src="computer-illustration.png" alt="shafi-yaftali" /></p>
+
+#### Mobile Development
+
+-   React Native
+-   Flutter
+-   Swift
+-   Kotlin
+
+#### Tools & Others
+
+-   Docker, Kubernetes, Ngnix, GitHub, Jenkins, Trello, Jira
+-   Amazon Web Services(Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)
+-   Google Cloud Platform
+-   Microsoft Azure
+
+<p>I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!</p>
+<p></p>
+
+<!-- Skills Section -->
+<h2 align="left">🚀Skills🚀</h2>
+
+<div>
+
+#### 🔥Major Programming Languages:
+
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,threejs,php,java,py,go,solidity,swift,kotlin" />
+  </div>
+
+#### ⛓️Frameworks and Skills:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular,nodejs,express,django,flask,laravel,flutter,spring,figma,webflow,wordpress,pytorch,tensorflow" />
+  </div>
+  
+#### 🧵Database & Skills:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,graphql,firebase,supabase,redis,postman" />
+  </div>
+
+#### ⚡️Other Essentials:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" />
+  </div>
+</div>
